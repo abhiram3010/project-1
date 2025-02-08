@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="399px" height="410px" viewBox="0 0 399 410" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.1 (9971) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-667.000000, -1232.000000)" fill="#D34B39">
+            <g id="CONTENT-GRID" sketch:type="MSLayerGroup" transform="translate(-1.000000, 901.000000)">
+                <g id="Row" transform="translate(1.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="col-8" transform="translate(0.000000, 1.000000)">
+                        <g id="BOOK" transform="translate(666.000000, 329.000000)">
+                            <path d="M400,279.784294 L400,83.4223522 L313.378057,179.512786 L400,279.784294 Z M216.284649,236.10586 L400,33.3555751 L400,1 L216.470533,1 L216.470533,230.01465 C216.470533,232.094575 216.31563,234.047158 216.284649,236.10586 Z M210.57388,292.826276 C199.049072,349.928719 170.650128,390.232581 127.989751,411 L400,411 L400,333.480329 L289.677848,205.702868 L210.57388,292.826276 Z M182.484743,232.657004 L182.484743,1 L1,1 L1,381.499016 C16.7175247,388.40734 33.9531019,392.270059 52.0871186,392.270059 C134.960401,392.270059 182.484743,334.085206 182.484743,232.657004 Z" id="Fill-13"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

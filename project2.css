@@ -1,0 +1,172 @@
+*{ 
+    margin: 0 !important;
+}
+
+
+.sec1{ 
+    background-image: url(speech.jpg);
+   
+
+}
+
+.pic{ padding-right: 5px;}
+
+.inbox{ 
+    height: 500px;
+}
+
+.para1{ 
+    
+    padding-top: 100px;
+    font-family: Arial;
+    font-size: 60px !important;
+    /* font-stretch: expanded; */
+}
+
+.trans{
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
+.nav-link{
+margin: 0px 13px;  
+}
+
+.navbar-para{ text-align: center;
+    
+}
+
+
+.col1{ 
+    background-color: rgb(212, 210, 210);
+}
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+        margin-bottom: 0px !important;
+    }
+
+.inbox2{
+    /* background-color: aqua; */
+    height: 300px;
+ }
+
+ .para2,.para3{ 
+    font-size: medium !important;
+    
+ }
+
+ .para3{ 
+color: coral!important;
+ }
+
+ .inbox3{ 
+  
+   
+ }
+
+/* bs edit*/
+
+
+.nospace {
+    padding: 0px !important;
+}
+
+.inbox3{ 
+    padding-left: 60px;
+
+}
+.para4{ font: size 200px;
+    pa: 50px 0px !important;
+}
+
+.list{ padding: 0%;}
+
+.img{ 
+    width: 100%;
+}
+
+.box01,.box02,.box03{
+    background-color: rgb(219, 218, 218);;
+}
+
+.space{ 
+    
+}
+.sec3{
+    background-image: url(speech.jpg);
+}
+
+.trans01{ 
+    background-color: rgba(0, 0, 0, 0.774);
+}
+
+.sec03{ 
+    padding-top: 100px;
+    
+}
+.mail{ 
+    border: 1px;
+    border-color: white;
+}
+
+.inbox10{
+    border: 3px solid white;
+    /* height: 100px; */
+    padding: 15px;
+    max-width: 500px;
+   
+   margin: auto;
+    
+}
+
+.form-control{
+     background-color: black;
+}
+::placeholder {
+    color: rgb(255, 255, 255)!important;
+    opacity: 1; /* Firefox */
+  }
+
+  .contact{
+    border: 2px solid orange;
+  }
+
+  @media (max-width:768px) {
+    .abc{
+        display: none !important;
+    }
+  }
+
+  .abc{ 
+    background-image: url("jk sidepic.webp");
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .img10{
+
+    background-image: url("jill-kornath.jpg" );
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+  }
+  .test{
+    min-height:700px;
+  }
+
+  .test1{
+    min-height:700px;
+
+  }
+/* 
+  @media(max-width:1199px)
+  {
+    .test1 {
+        min-height: 950px;
+    }
+  }
+  @media(max-width:858px)
+  {
+    .test1 {
+        min-height: 1050px;
+    }
+  } */
